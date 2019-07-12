@@ -76,7 +76,8 @@ Yoni lavi - README.md template
 
 /*------------------------------------------------Media*/
 
-
+Photos in this site were obtained from 
 
 /*------------------------------------------------Acknowlegements*/
 
+I received inspiration for this project from research of other 1960's band websites. 
