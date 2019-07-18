@@ -82,3 +82,6 @@ Photos in this site were obtained from
 
 I received inspiration for this project from research of other 1960's band websites. 
 The styling of the gallery page was inspired by https://medium.com/backticks-tildes/building-a-responsive-image-gallery-e0fe5acc8be5 with using his method of tiles. 
+
+I used the css code from https://designshack.net/articles/css/custom-html5-audio-element-ui/ 
+to create the audio element on the listen.html page

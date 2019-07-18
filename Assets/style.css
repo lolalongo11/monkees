@@ -1,3 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Bonbon:100,200,300,400,500,600,700|Acme:100,200,300,400,500,600,700');
+
+/*---------------------------------------------------Heading*/
+
+.header {
+    margin:0;
+}
+
+.logo {
+    background: url("../images/monkees.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height:360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+/*---------------------------------------------------Social*/
+
 .social-links {
     padding-bottom: 15px;
 }
