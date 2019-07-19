@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Bonbon:100,200,300,400,500,600,700|Roboto');
+
+/* ------------------------------------------------------Colours */
+
+.bg-color-name-title {
+    background-color: #00Bfff;
+}
+
+.ui-menu-color-home {
+    background-color: #BA5533
+}
+
+.ui-menu-color-contact {
+    background-color: #E9967A
+}
+
+.ui-menu-color-gallery {
+    background-color: #778899
+}
+
+.ui-menu-color-listen {
+    background-color: #90EE90
+}
+
+/* ------------------------------------------------------Headings */
+
+header {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.logo {
+    background: url("../images/cover3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 420px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+
+}
+
+.name{
+    font-family: "Bonbon", sans-serif;
+    font-weight: 200;
+    font-size: 56px;
+    margin-top:50px;
+    color: #B22222;
+}
+
+.title{
+    font-family:"Roboto", sans-serif;
+    font-weight:200;
+    font-size: 38px;
+    margin-top:20px;
+    margin-bottom:90px;
+    color: #fff;
+}
+
+.list-inline-item:not(:last-child) {
+    margin:0;
+}
+
+.menucontainer{
+    font-size: 0;
+}
+
+#nav li{
+    font-size: 14px;
+    padding: 0;
+}
+
+.menuitem {
+    height: 160px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    width:100%;
+    text-decoration: none;
+    color: #fff;
+    height: 160px;
+}
+
+.menuitem a i {
+    padding-top: 42px;
+    display: block;
+    color: #fafafa;
+    font-size: 36px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding:5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+#nav {
+    margin:0;
+}
+
+/* --------------------------------------------------------- Gallery */
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+img {
+ margin: 5px;
+ transition: all 2s;
+}
+img:hover {
+ transform: scale (1.1);
+}
