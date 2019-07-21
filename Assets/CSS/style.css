@@ -161,7 +161,7 @@ footer {
 }
 
 body {
-    background-color: black;
+    background-color: #8B0000;
 }
 
 .container {
@@ -281,3 +281,7 @@ body {
     -o-transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
 }
+
+
+/*------------------------------------------------------------------------Audio styles */
+

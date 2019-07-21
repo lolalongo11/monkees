@@ -87,3 +87,5 @@ Inspiration for the layout of this project was taken from the resume mini projec
 material we learned in the resume mini project and took inspiration in the layout.
 
 I used the code from https://codepen.io/nebo/pen/ONXejO courtesy of nebo to style my gallery.html and css. 
+
+For help with the Audio element I went to https://www.w3schools.com/tags/tag_audio.asp.
