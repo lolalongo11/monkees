@@ -44,32 +44,32 @@ header {
 
 }
 
-.name{
+.name {
     font-family: "Bonbon", sans-serif;
     font-weight: 200;
     font-size: 56px;
-    margin-top:50px;
+    margin-top: 50px;
     color: #B22222;
 }
 
-.title{
-    font-family:"Roboto", sans-serif;
-    font-weight:200;
+.title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
     font-size: 38px;
-    margin-top:20px;
-    margin-bottom:90px;
+    margin-top: 20px;
+    margin-bottom: 90px;
     color: #fff;
 }
 
 .list-inline-item:not(:last-child) {
-    margin:0;
+    margin: 0;
 }
 
-.menucontainer{
+.menucontainer {
     font-size: 0;
 }
 
-#nav li{
+#nav li {
     font-size: 14px;
     padding: 0;
 }
@@ -81,7 +81,7 @@ header {
 }
 
 .menuitem a {
-    width:100%;
+    width: 100%;
     text-decoration: none;
     color: #fff;
     height: 160px;
@@ -97,29 +97,58 @@ header {
 .menuitem span {
     display: block;
     width: 100%;
-    padding:5px;
+    padding: 5px;
     text-align: center;
     text-transform: uppercase;
-    font-size: 14px;
-    font-weight: 300;
+    font-size: 28px;
+    font-weight: 600;
     letter-spacing: 2px;
+    font-family: "Bonbon";
+    color: #8B0000;
 }
 
 #nav {
-    margin:0;
+    margin: 0;
 }
 
-/* --------------------------------------------------------- Gallery */
+/* --------------------------------------------------------- Special paddings/margins/text */
 
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
 }
-img {
- margin: 5px;
- transition: all 2s;
+
+.uppercase {
+    text-transform: uppercase;
 }
-img:hover {
- transform: scale (1.1);
+
+.general-sub {
+    font-family: "Bonbon", sans-serif;
+    font-weight: 800;
+    color: #8B0000;
+}
+
+/* ------------------------------------------------------------ Footer */
+
+footer {
+    background-color: #E9967A;
+    color: #8B0000;
+    min-height: 240px;
+    margin: 0;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width:64px;
+    height: 64px;
+    padding: 24px;
+    font-size: 36px;
+    line-height: 7px;
+    text-align: center;
+    color:#8B0000;
 }

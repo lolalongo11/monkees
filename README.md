@@ -69,19 +69,17 @@ I received inspiration for this project from X
 /*------------------------------------------------Credits*/
 
 Yoni lavi - README.md template 
+https://en.wikipedia.org/wiki/The_Monkees - About section 
 
 /*------------------------------------------------Content*/
 
-
+Code institute project sylabus 
 
 /*------------------------------------------------Media*/
 
-Photos in this site were obtained from 
+Photos in this site were obtained from Code institute project sylabus courtesy of XXXXXXXX
 
 /*------------------------------------------------Acknowlegements*/
 
-I received inspiration for this project from research of other 1960's band websites. 
-The styling of the gallery page was inspired by https://medium.com/backticks-tildes/building-a-responsive-image-gallery-e0fe5acc8be5 with using his method of tiles. 
-
-I used the css code from https://designshack.net/articles/css/custom-html5-audio-element-ui/ 
-to create the audio element on the listen.html page
+Inspiration for the layout of this project was taken from the resume mini project we did in the previous section. I roughly followed the outline and guidance of the 
+material we learned in the resume mini project and took inspiration in the layout.
