@@ -74,6 +74,8 @@ https://en.wikipedia.org/wiki/The_Monkees - About section
 /*------------------------------------------------Content*/
 
 Code institute project sylabus 
+Monkeesphoto2 was used from https://ultimateclassicrock.com/monkees-debut-album/
+Monkeesphoto1 was used from https://www.billboard.com/articles/columns/rock/8499485/monkees-peter-tork-best-songs
 
 /*------------------------------------------------Media*/
 
@@ -83,3 +85,5 @@ Photos in this site were obtained from Code institute project sylabus courtesy o
 
 Inspiration for the layout of this project was taken from the resume mini project we did in the previous section. I roughly followed the outline and guidance of the 
 material we learned in the resume mini project and took inspiration in the layout.
+
+I used the code from https://codepen.io/nebo/pen/ONXejO courtesy of nebo to style my gallery.html and css. 
