@@ -76,6 +76,7 @@ https://en.wikipedia.org/wiki/The_Monkees - About section
 Code institute project sylabus 
 Monkeesphoto2 was used from https://ultimateclassicrock.com/monkees-debut-album/
 Monkeesphoto1 was used from https://www.billboard.com/articles/columns/rock/8499485/monkees-peter-tork-best-songs
+https://archive.org/download/Monkees_Im_A_Believer_Video - video provided on course did not work. 
 
 /*------------------------------------------------Media*/
 
@@ -89,3 +90,4 @@ material we learned in the resume mini project and took inspiration in the layou
 I used the code from https://codepen.io/nebo/pen/ONXejO courtesy of nebo to style my gallery.html and css. 
 
 For help with the Audio element I went to https://www.w3schools.com/tags/tag_audio.asp.
+Code for video header was provided for by https://startbootstrap.com/snippets/video-header/

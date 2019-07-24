@@ -48,7 +48,7 @@ header {
     font-family: "Bonbon", sans-serif;
     font-weight: 200;
     font-size: 56px;
-    margin-top: 50px;
+    margin-top: 100px;
     color: #B22222;
 }
 
@@ -75,7 +75,7 @@ header {
 }
 
 .menuitem {
-    height: 160px;
+    height: 320px;
     text-align: center;
     padding: 0;
 }
@@ -140,7 +140,7 @@ footer {
 }
 
 .social-links {
-    padding-bottom: 15px;
+    padding-bottom:30px;
 }
 
 .social-links li a i {
@@ -282,6 +282,54 @@ body {
     -webkit-transform: translateY(-50%);
 }
 
+/* -----------------------------------------------------video style */
 
-/*------------------------------------------------------------------------Audio styles */
+header {
+  position: relative;
+  background-color: black;
+  height: 75vh;
+  min-height: 25rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+header video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+  position: relative;
+  z-index: 2;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+@media (pointer: coarse) and (hover: none) {
+  header {
+    background: url:'/Assets/video/Monkees_Im_A_Believer_Video.mp4') black no-repeat center center scroll;
+  }
+  header video {
+    display: none;
+  }
+}
 
