@@ -116,12 +116,11 @@ on the project ideas section which was later removed to be made more generic. I 
 
 /* -------------------------------------------------------------------------------------------- Deployment*/
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+Deployed through GitHub https://github.com/lolalongo11/monkees cloned through GitHub, I used the following process to save and push my work:
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+git add . 
+git commit -m "vatious updates"
+git push origin master
 
 /*--------------------------------------------------------------------------------------------Credits*/
 
