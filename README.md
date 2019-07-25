@@ -5,7 +5,7 @@
 This website is a HTML and CSS technology created site created using bootstrap, googleapis fonts and styles.
 I have used Git and GitHub for version control.  
 
-The site is to showcase the Monkees photographs, music, video, advertising gigs and event performances such as weddings and other parties that 
+The site is to showcase the Monkees photographs, music, video, advertising gigs and event performances such as weddings and other events that 
 users may be interested in.
 
 ## Social Media Links
@@ -27,6 +27,7 @@ can navigate to contact.html where they can sign up to book the band for events,
 and listen to the band songs - 4 songs listed, the user can also navigate to gallery.html where they can see various photographs of the band. 
 
 In designing the website I wrote up some rough ideas /Design_Process/monkees_plan1.jpg /Design_Process/monkees_plan2.jpg /Design_Process/monkees_plan3.jpg
+Link to balsamiq wireframes: https://balsamiq.cloud/svob6q6/pweeugf/rEBD0?f=N4IgUiBcCMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D;
 
 The Assets of this project - music and photos were provided for by code institute. 
 Since starting the project the links to the credit of who provided the Assets to CI have since been removed. 
