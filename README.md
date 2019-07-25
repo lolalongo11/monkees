@@ -30,6 +30,9 @@ In designing the website I wrote up some rough ideas /Design_Process/monkees_pla
 
 The Assets of this project - music and photos were provided for by code institute. 
 Since starting the project the links to the credit of who provided the Assets to CI have since been removed. 
+
+I made sure the website had responsive design as part of the ux and looks good on mobile devices as well and tablets and laptops/pc. I have test the 
+view of the responsive design by inspecting the page and then toggling between mobile and pc and it looks good. 
  
 /* -------------------------------------------------------------------------------------------- Features and how they are expected to work*/
 
