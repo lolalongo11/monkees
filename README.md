@@ -102,12 +102,18 @@ the header works and that the video plays in the background - credit to The head
 Since the video that was provided in the project notes does not render I selected my own video to use: 
 https://archive.org/download/Monkees_Im_A_Believer_Video 
 
+### Browser Compatability
+I tested the following browsers for compatability success: IE, Chrome, Firefox, Edge, Mozilla.
+
 ### Challenges
 
 I found it difficult to resolve the problem of the original video provided for by code institure to work with my code,
 although the video plays on my laptop it would not work when added to my code, this issue was reported by many other students on the course as shown in the slack pages for code institute. 
 I found it quite confusing that the project layout and sylabus changed 2 weeks into the project. When I started creating the website there was a lot of information
 on the project ideas section which was later removed to be made more generic. I was not able to link or give credit other than to mention CI and not the actual sources. 
+
+### User Stories
+
 
 
 ### Deployment
