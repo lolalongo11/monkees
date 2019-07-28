@@ -114,7 +114,12 @@ on the project ideas section which was later removed to be made more generic. I 
 
 ### User Stories
 
+#### Band fan 
 
+As a fan of the band I wanted to be able to sign up to a mailing list to be kept up to date with new music and tour dates. 
+
+#### Event planner 
+As an event planner for weddings and other large parties I wanted to be able to contact the band to find out availability for my clients. 
 
 ### Deployment
 

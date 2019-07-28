@@ -37,7 +37,7 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 420px;
+    min-height: 240px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -77,9 +77,9 @@ header {
 }
 
 .menuitem {
-    height: 320px;
+    height: 160px;
     text-align: center;
-    padding: 0;
+    padding: 20;
 }
 
 .menuitem a {
@@ -141,8 +141,14 @@ footer {
     margin: 0;
 }
 
+.form {
+    width:10px;
+    margin: 0 auto;
+    display: block;
+}
+
 .social-links {
-    padding-bottom:30px;
+    padding-bottom:0px;
 }
 
 .social-links li a i {
@@ -163,7 +169,7 @@ footer {
 }
 
 body {
-    background-color: #8B0000;
+    background-color: #E9967A;
 }
 
 .container {
